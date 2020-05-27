@@ -1,0 +1,79 @@
+[
+  {
+    "ciclocation": {
+      "label": "Unit Location",
+      "value": "unitlocation",
+      "options": []
+    }
+  },
+  {
+    "country": {
+      "label": "Country",
+      "value": "country",
+      "options": []
+    }
+  },
+  {
+    "jrs": {
+      "label": "JR/S",
+      "value": "jrs",
+      "options": []
+    }
+  },
+  {
+    "market": {
+      "label": "Market",
+      "value": "market",
+      "options": []
+    }
+  },
+  {
+    "org": {
+      "label": "Org",
+      "value": "org",
+      "options": []
+    }
+  },
+  {
+    "region": {
+      "label": "Region",
+      "value": "region",
+      "options": []
+    }
+  },
+  {
+    "yearlist": {
+      "label": "Years",
+      "value": "years",
+      "options": []
+    }
+  },
+  {
+    "service": {
+      "label": "Services",
+      "value": "service",
+      "options": []
+    }
+  },
+  {
+    "businessmodel": {
+      "label": "Business Model",
+      "value": "businessmodel",
+      "options": []
+    }
+  },
+  {
+    "servicearea": {
+      "label": "Service Area",
+      "value": "servicearea",
+      "options": []
+    }
+  },
+  {
+    "serviceline": {
+      "label": "Service Line",
+      "value": "serviceline",
+      "options": []
+    }
+  }
+]

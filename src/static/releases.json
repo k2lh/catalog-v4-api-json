@@ -1,0 +1,37 @@
+[
+   {
+    "date": "2020-04-30",
+    "list_updates": [],
+   "text_updates": [],
+    "notes": []
+  },
+  {
+    "date": "2020-04-24",
+    "list_updates": [],
+   "text_updates": [],
+    "notes": []
+ },
+ {
+    "date": "2020-04-17",
+    "list_updates": [],
+   "text_updates": [],
+    "notes": []
+ },
+ {
+    "date": "2019-12-16",
+    "list_updates": [
+      "New Accounts Dashboard.",
+      "This dashboard provides employee upskill and reskill insights for DPEs and PEs on Markel and State Street accounts.",
+      "Talent Tapper – Data Science Dashboard.",
+      "This is an exciting new addition to our menu of dashboards. It’s powered by our Skills Ontology model for Cloud, NNN and ZZZ employees. Inside the dashboard you can mine the rich data assets and discover candidates with Data Science skills. What makes this so unique is that an employee may not yet have explored the proficiency, but we are able to see patterns based on their interests from training they’ve taken.",
+      "Enhanced Badge Central formally known as All Professional Dashboard",
+      "Additional filters: Service line, Business model and Reporting manager",
+      "Badge Data Exploration tab for self-service reporting on badge data",
+      "Enhanced Certification Central",
+      "Consolidates verified certifications (previously found in the Badges and Self -reported Certifications dashboard) with self-identified certifications found in resumés and CVs",
+      "Additional filters: Service line, Business model and Reporting manager"
+      ],
+   "text_updates": [],
+    "notes": []
+ }
+]

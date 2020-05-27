@@ -1,0 +1,28 @@
+[
+  {
+    "name": "json-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "serve": "nodemon --exec babel-node src/server.js",
+      "start": "node src/start.js",
+      "test": "nodemon --exec babel-node src/test.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "cfenv": "^1.2.2",
+      "cors": "^2.8.5",
+      "dotenv": "^8.2.0",
+      "express": "^4.17.1",
+      "@babel/core": "^7.6.4",
+      "@babel/register": "^7.7.0",
+      "@babel/preset-env": "^7.7.1"
+    },
+    "devDependencies": {
+      "@babel/node": "^7.6.3",
+      "nodemon": "^1.19.4"
+    }
+  }
+]

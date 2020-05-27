@@ -1,0 +1,888 @@
+[
+  {
+    "updated": "2020-04-30",
+    "lastReleaseDate": "2020-04-30",
+    "cards": [
+      {
+        "uniqueID": "acctDash",
+        "updated": "2019-12-17",
+        "displayTitle": "Accounts",
+        "linkurl": "",
+        "description": "Insights for identifying full-time employees to be upskilled/reskilled.",
+        "current": true,
+        "status": "new",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "atot",
+        "updated": "2019-12-17",
+        "displayTitle": "Actuals to Targets",
+        "linkurl": "",
+        "description": "Strategic initiative showcase for upskill and reskill successes.",
+        "current": true,
+        "status": "feature",
+        "dash": "standalone",
+        "ownership": {},
+        "visibility": {
+          "private": false,
+          "anon": true,
+          "require": "none"
+        }
+      },
+      {
+        "uniqueID": "ProfbadgeCentral",
+        "updated": "2019-12-17",
+        "displayTitle": "Badge Central",
+        "linkurl": "",
+        "description": "Earned professional badges that aligns to the employee's Job Role/Specialty.",
+        "current": true,
+        "status": "feature",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": true,
+          "require": "none"
+        }
+      },
+      {
+        "uniqueID": "awsseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Amazon Web Services (AWS)",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "archTrain",
+        "updated": "2019-12-17",
+        "displayTitle": "Architect",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "plist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "azseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Azure",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "blogsen",
+        "updated": "2019-12-17",
+        "displayTitle": "Blog Sentiment Analysis",
+        "current": false,
+        "status": "exper",
+        "linkurl": "",
+        "description": "",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "certDash1",
+        "updated": "2020-04-24",
+        "displayTitle": "Certification Central",
+        "linkurl": "",
+        "description": "Profession and external (vendor) certifications.",
+        "current": true,
+        "status": "new",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": true,
+          "require": "none"
+        }
+      },
+      {
+        "uniqueID": "cloudseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Cloud Migration Factory",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "cogtalenttapSRE",
+        "updated": "2019-12-17",
+        "displayTitle": "Cognitive Talent Tapper - SRE",
+        "linkurl": "",
+        "description": "Analysis of employees with skills that match the Site Reliability Engineer (SRE) job role.",
+        "current": false,
+        "status": "exper",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "cogtalenttapDS",
+        "updated": "2019-12-17",
+        "displayTitle": "Cognitive Talent Tapper - DS",
+        "linkurl": "",
+        "description": "Analysis of employees with skills that match those of a Data Scientist.",
+        "current": false,
+        "status": "exper",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "consTrain",
+        "updated": "2019-12-17",
+        "displayTitle": "Consultant",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "plist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "cpedpe",
+        "updated": "2019-12-17",
+        "displayTitle": "CPE/DPE",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "plist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "dsaTrain1",
+        "updated": "2019-12-17",
+        "displayTitle": "Data Scientist",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "plist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "dsaTrain2",
+        "updated": "2019-12-17",
+        "displayTitle": "Data Science",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "designprof",
+        "updated": "2019-12-17",
+        "displayTitle": "Designer/Offering Manager",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "plist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "dwseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Digital Workplace Services",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "docker",
+        "updated": "2019-12-17",
+        "displayTitle": "Docker",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "LearnPlan",
+        "updated": "2019-12-17",
+        "displayTitle": "Learning Plan Summary",
+        "linkurl": "",
+        "description": "Tool for looking up a specific person's training.",
+        "current": true,
+        "status": "current",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "execsumm",
+        "updated": "2019-12-17",
+        "displayTitle": "Executive Summary",
+        "linkurl": "",
+        "description": "Updated and redesigned big-picture summary of training efforts for reskilling, upskilling, and redeployment.",
+        "current": true,
+        "status": "current",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": true,
+          "require": "none"
+        }
+      },
+      {
+        "uniqueID": "execGlance",
+        "updated": "2019-12-17",
+        "displayTitle": "Exec at a glance",
+        "linkurl": "",
+        "description": "Summarized view of total trained, upskilled, and reskilled by Geography.",
+        "current": true,
+        "status": "current",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "eoseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Enterprise Operations",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "gbspoc",
+        "updated": "2020-1-23",
+        "displayTitle": "Multicloud Completions",
+        "current": false,
+        "status": "exper",
+        "linkurl": "",
+        "description": "",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "hcomseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Enterprise Hybrid Cloud Services",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "ibmcloud",
+        "updated": "2019-12-17",
+        "displayTitle": "Cloud",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "imiseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Integrated Managed Infrastructure",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "jtcseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Journey to Cloud Leaderboard",
+        "linkurl": "",
+        "description": "Actionable manager views of modules and associated employee enablement.",
+        "current": true,
+        "status": "current",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": true,
+          "require": "none"
+        }
+      },
+      {
+        "uniqueID": "kuber",
+        "updated": "2019-12-17",
+        "displayTitle": "Kubernetes",
+        "dash": "tableau",
+        "current": false,
+        "status": "ilist",
+        "linkurl": "",
+        "description": "",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "mainframeTrain",
+        "updated": "2019-12-17",
+        "displayTitle": "Mainframe",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "netseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Network",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "ontology",
+        "updated": "2019-12-17",
+        "displayTitle": "Ontology",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "exper",
+        "dash": "standalone",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "none"
+        }
+      },
+      {
+        "uniqueID": "oracleseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Oracle",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "prodseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Product Services",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "plist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "profCertReq",
+        "updated": "2020-04-20",
+        "displayTitle": "Professional Certification Requirements",
+        "linkurl": "",
+        "description": "Dashboard to review status of employees within Professions towards Professional Certification.",
+        "current": true,
+        "status": "current",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "pmprof",
+        "updated": "2019-12-17",
+        "displayTitle": "Project Manager",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "plist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "rhlp",
+        "updated": "2020-03-16",
+        "displayTitle": "Red Hat Learning Plans",
+        "linkurl": "",
+        "description": "Actionable manager views of Red Hat learning plans with filters by Geo.",
+        "current": true,
+        "status": "feature",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": true,
+          "require": "none"
+        }
+      },
+      {
+        "uniqueID": "regtrainseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Regional Training Program",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "resseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Resiliency",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "rsikseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Risk & Compliance Management",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "saleTrain",
+        "updated": "2019-12-17",
+        "displayTitle": "Seller",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "plist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "sapseg",
+        "updated": "2019-12-17",
+        "displayTitle": "SAP",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "securityseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Security",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "Softlayer",
+        "updated": "2019-12-17",
+        "displayTitle": "Softlayer",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "localBreak",
+        "updated": "2019-12-17",
+        "displayTitle": "Services Academy Roadshow",
+        "linkurl": "",
+        "description": "Counts, hours, badges and more by specific location, for use in Services Academy Roadshows.",
+        "current": true,
+        "status": "current",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": true,
+          "require": "none"
+        }
+      },
+      {
+        "uniqueID": "shareTrain",
+        "updated": "2019-12-17",
+        "displayTitle": "Shared Services",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "solTrain",
+        "updated": "2019-12-17",
+        "displayTitle": "Solutioning",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "storageseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Storage",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "TimeOverviewMain",
+        "updated": "2020-02-29",
+        "displayTitle": "Time Contribution to the Business (overview)",
+        "linkurl": "",
+        "description": "",
+        "current": true,
+        "status": "current",
+        "dash": "standalone",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "execs"
+        }
+      },
+      {
+        "uniqueID": "usage",
+        "updated": "2019-12-17",
+        "displayTitle": "Tableau Usage Report",
+        "linkurl": "",
+        "description": "Personal usage of different reports within Services Academy Analytics.",
+        "current": true,
+        "status": "current",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": true,
+          "require": "none"
+        }
+      },
+      {
+        "uniqueID": "speccert",
+        "updated": "2019-12-17",
+        "displayTitle": "Technical Specialist",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "plist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "tssseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Technical Support Services (TSS)",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "tssbadges",
+        "updated": "2020-1-13",
+        "displayTitle": "TSS 2020 Badges and Certification",
+        "linkurl": "",
+        "description": "Track progress toward the TSS Badges and Certifications 2020 initiative",
+        "current": true,
+        "status": "current",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": true,
+          "require": "none"
+        }
+      },
+      {
+        "uniqueID": "traseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Transition & Transformation",
+        "linkurl": "",
+        "description": "",
+        "status": "ilist",
+        "current": false,
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "vmwareseg",
+        "updated": "2019-12-17",
+        "displayTitle": "VMware",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      },
+      {
+        "uniqueID": "winseg",
+        "updated": "2019-12-17",
+        "displayTitle": "Windows",
+        "linkurl": "",
+        "description": "",
+        "current": false,
+        "status": "ilist",
+        "dash": "tableau",
+        "ownership": {},
+        "visibility": {
+          "private": true,
+          "anon": false,
+          "require": "tableau"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "uniqueID": "prototypes/accounts",
+    "displayTitle": "Accounts",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "cognitive/ttds",
+    "displayTitle": "Cognitive Talent Tapper DS",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "cognitive/ttsre",
+    "displayTitle": "Cognitive Talent Tapper SRE",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "prototypes/edvisor",
+    "displayTitle": "Edvisor Learning Plan",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "prototypes/executive",
+    "displayTitle": "Executive Summary",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "prototypes/journey",
+    "displayTitle": "Journey to Cloud",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "capacity/estimate",
+    "displayTitle": "Capacity Estimates",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "capacity/need",
+    "displayTitle": "Capacity Need",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "prototypes/ontology",
+    "displayTitle": "Ontology/Skills",
+    "dash": "internal",
+    "stable": true
+  },
+  {
+    "uniqueID": "prototypes/redhat",
+    "displayTitle": "RedHat Learning Plans",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "prototypes/services",
+    "displayTitle": "Services AR",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "teamview/summary",
+    "displayTitle": "Team View",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "time/all",
+    "displayTitle": "Time Contribution Breakdown",
+    "dash": "internal",
+    "stable": false
+  },
+  {
+    "uniqueID": "prototypes/traffic",
+    "displayTitle": "Page Traffic Stats",
+    "dash": "internal",
+    "stable": false
+  }
+]
